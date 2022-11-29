@@ -13,7 +13,15 @@
 }
 #p1{
     position: relative;
-    top: 13rem;
+    top: 13.1rem;
+    border: solid 2px #CBF1F5;
+    border-radius: 28px;
+    padding: 10px 20px 10px 20px;
+    background-color: #A8D8EA;
+}
+#p2{
+    position: relative;
+    top: 11.0rem;
     border: solid 2px #CBF1F5;
     border-radius: 28px;
     padding: 10px 20px 10px 20px;
