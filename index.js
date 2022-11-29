@@ -9,7 +9,7 @@ function getJoke(){
     }
     let d = arr[n];
     p1.innerHTML=d;
-    p2.innerHTML="click me to know the ans";
+    p2.innerHTML="Touch me to tell the ans";
     document.getElementById("p2").addEventListener("click" ,()=>{
         document.getElementById("p2").innerHTML=arr[n+1];
     })
